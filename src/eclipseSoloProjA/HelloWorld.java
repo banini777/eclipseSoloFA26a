@@ -3,5 +3,5 @@ package eclipseSoloProjA;
 public class HelloWorld {
 	//woah its empty
 	System.out.println("not empty nomo!");
-	System.out.println("Programmer two did this");
+	System.out.println("Programmers worked together on this :)");
 }
